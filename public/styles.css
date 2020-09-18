@@ -1,0 +1,13 @@
+body {
+    background: darkslateblue;
+}
+.app {
+     max-width: 500px;
+     background: teal;
+     padding:10px;
+     margin: 50px auto;
+}
+
+.app h1{
+    text-align: center;
+}
